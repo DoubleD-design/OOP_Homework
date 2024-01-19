@@ -44,7 +44,7 @@ int main() {
         for (int j = 0; j < 2; ++j) {
             cout << m3[i][j] << " ";
         }
-        cout << end;
+        cout << endl;
     }
 
     return 0;
